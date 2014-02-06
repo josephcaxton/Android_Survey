@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Survey</string>
+    <string name="action_clear">Clear survey data on my device</string>
+    <string name="action_sound">Configure sound</string>
+    <string name="title_section1">Survey</string>
+    <string name="title_section2">Help</string>
+    <string name="title_section3">About</string>
+    <string name="title_section4">Settings</string>
+	<color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="loading">Loading.....</string>
+    <string name="login">Login</string>
+    <string name="OK">OK</string>
+    <string name="BBCUID">Enter UID</string>
+    <string name="Password">Password</string>
+    <string name="LoadingDataFromDataBase">Loading data....</string>
+    <string name="Next">Next</string>
+    <string name="Stop">Stop</string>
+    
+</resources>
